@@ -1,6 +1,6 @@
 ## 一键部署 V2Ray 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-> 1. 部署时VLess协议的`UUID`默认`91cb66ba-a373-43a0-8169-33d4eeaeb857`。
+> 1. 部署时VLess协议的`UUID`默认`99cb66ba-a373-43a0-8169-33d4eeaeb855`。
 
 > 2. 服务端部署后，应`open app`，显示`Bad Request`，表示部署成功。
 
